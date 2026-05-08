@@ -14,9 +14,9 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently at my third year at VSU
+- 🔭 I’m currently at my fourth year at VSU
   
-- 🌱 I’m currently learning Web Dev and App Dev
+- 🌱 I’m currently developing projects for our dorm and university.
   
 - 👯 I’m willing to collaborate on projects
   
