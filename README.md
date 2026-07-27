@@ -14,11 +14,11 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently at my fourth year at VSU
+- 🔭 I’m a graduate of BS in Computer Science at VSU
   
-- 🌱 I’m currently developing projects for our dorm and university.
+- 🌱 I’m currently a trainee in RocketPartners
   
-- 👯 I’m willing to collaborate on projects
+- 👯 My current work is a Java Cloud Engineer
   
 - 💬 Ask me about C, C++, Python, and Javascript
   
