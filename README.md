@@ -16,11 +16,11 @@
 
 - 🔭 I’m a graduate of BS in Computer Science at VSU
   
-- 🌱 I’m currently a trainee in RocketPartners
+- 🌱 I’m currently a Java Cloud Engineer
+    
+- 👯 This account was used during my college
   
-- 👯 My current work is a Java Cloud Engineer
-  
-- 💬 Ask me about C, C++, Python, and Javascript
+- 💬 Ask me about C, C++, Java, and Javascript
   
 - ⚡ Everything happens for a reason! Keep going.
 
